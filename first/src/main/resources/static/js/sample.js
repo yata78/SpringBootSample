@@ -34,8 +34,9 @@ function omikuji() {
             break
         case 4:
             result = "凶"
+            break
         default:
-            return "error"
+            return "大凶"
         
     }
 
